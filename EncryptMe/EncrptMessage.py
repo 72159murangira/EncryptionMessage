@@ -83,7 +83,7 @@ def main_screen():
     screen.geometry("375x398")
 
     # Icon
-    image_icon = PhotoImage(file=r"images/security.png")
+    image_icon = PhotoImage(file=r"C:\Users\Johnm\Desktop\Python\EncryptMe\images\security.png")
     screen.iconphoto(False, image_icon)
     screen.title("EncryptMe")
 
